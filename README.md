@@ -15,7 +15,7 @@ pnpm dev
 ```bash
 
 # to generate component files
-npm run generate {{ComponentName}}
+npm run generate component {{ComponentName}}
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
